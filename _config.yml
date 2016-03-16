@@ -1,0 +1,28 @@
+name: Kaleb Kloppe
+favicon: null
+layout_spectrum: 0.8459700020030141
+typography_spectrum: 0.9031991283409297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8970374956261367
+  lightness: 0.7659438806585968
+  saturation: 0.9678546558134258
+  rhythmicContrast: 0.5413706605322659
+purpose: []
